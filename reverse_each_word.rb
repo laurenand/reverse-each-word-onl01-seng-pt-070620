@@ -1,6 +1,7 @@
 def reverse_each_word(sentence)
-  if sentence.split 
-    sentence.each_with_index do ||
+  sentence.split 
+    
+    sentence.each_with_index do |word|
       
-  end
+  
 end

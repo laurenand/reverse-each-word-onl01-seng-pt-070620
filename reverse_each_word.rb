@@ -3,5 +3,5 @@ def reverse_each_word(sentence)
     
     sentence.each_with_index do |word|
       
-  
+    end
 end
